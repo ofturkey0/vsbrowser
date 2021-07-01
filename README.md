@@ -14,6 +14,6 @@ Aşağıdaki link'e basarak indrebilirsiniz.
 
 # Kurulum.
 
-İndirdirmiş olduğunuz .7z dosyasını winrar ile açıp içindeki dosyaları çıkartıyorsunuz 
+İndirdirmiş olduğunuz .zip dosyasını winrar ile açıp içindeki dosyaları çıkartıyorsunuz ardından içindeki .7z dosyasını masaüstüne yada bir klasöre çıkartık'tan sonra 
 <br>
-zaten kurulu olan Visual Studio ile açıyorsunuz gerisi size kalmış iyi geliştirmeler.
+zaten bilgisayarınızda kurulu olan Visual Studio ile açıyorsunuz gerisi size kalmış iyi geliştirmeler. eğer Visual Studio yok ise bu dosya çalışmaz.
