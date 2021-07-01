@@ -6,7 +6,7 @@ Bu proje açık kaynak kodlu olup herkes tarafın'dan ücretsiz bir şekilde kop
 
 # İndirme
 
-Visual Studio sadece Windows ve MacOS olduğu için Linux dağıtımlarını desteklememektedir.<br> MacOS cihazım bulunmadığı için ise MacOS Desteklememektedir.
+Visual Studio sadece Windows ve MacOS olduğu için Linux dağıtımlarını desteklememektedir.<br> MacOS cihazım bulunmadığı için ise MacOS desteklenmemektedir..
 
 ## Windows
 
