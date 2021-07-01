@@ -2,7 +2,7 @@
 
 # Hakkında.
 
-Bu proje açık kaynak kodlu olup herkes taradından ücretsiz bir şekilde kopyalanıp paylaşıla bilir.
+Bu proje açık kaynak kodlu olup herkes tarafın'dan ücretsiz bir şekilde kopyalanıp paylaşıla bilir.
 
 # İndirme
 
