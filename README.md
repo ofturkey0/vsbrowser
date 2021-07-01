@@ -1,2 +1,13 @@
-# vsinternettaray-c-
-Visual Studio İnternet Tarayıcısı Ve Komutları bulunmaktadır kopyalanması serbestir.
+### VSBrowser
+
+# Hakkında.
+
+Bu proje açık kaynak kodlu olup herkes taradından ücretsiz bir şekilde kopyalanıp paylaşıla bilir.
+
+# İndirme
+
+## Windows
+
+Aşağıdaki link'e basarak indrebilirsiniz.
+
+[📥Direk İndir](https://github.com/ofturkey0/ofprisonbox/archive/refs/heads/main.zip)
